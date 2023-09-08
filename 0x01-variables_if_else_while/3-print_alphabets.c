@@ -4,7 +4,7 @@
 
 /**
  * main - Prints all the alphabet in lowercase, then uppercase
- * then returns a new line
+ *
  *
  *Return: Always return 0
  */
